@@ -1,0 +1,3 @@
+get(x, y) {
+  return array[x][y];
+}
